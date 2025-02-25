@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# Xcode project files
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+DerivedData/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Logs & Temporary files
+*.log
+
