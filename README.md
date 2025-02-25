@@ -146,7 +146,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contact
 
 Your Name - Priyanshu Singh
+
 Linkedin: ([Linkedin](https://www.linkedin.com/in/priyanshusingha/))
+
 Project Link: ([https://github.com/Priyanshu-Singhz/MedicFix](https://github.com/Priyanshu-Singhz/MedicFix))
 
 ---
