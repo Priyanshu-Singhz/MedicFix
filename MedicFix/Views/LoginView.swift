@@ -2,7 +2,7 @@
 //  LoginView.swift
 //  MedicFix
 //
-//  Created by Zignuts Technolab on 21/02/25.
+//  Created by Priyanshu Singh on 21/02/25.
 //
 
 import SwiftUI

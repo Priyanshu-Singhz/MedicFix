@@ -2,7 +2,7 @@
 //  AddMedicationViewModel.swift
 //  MedicFix
 //
-//  Created by Zignuts Technolab on 19/02/25.
+//  Created by Priyanshu Singh on 19/02/25.
 //
 
 import Foundation

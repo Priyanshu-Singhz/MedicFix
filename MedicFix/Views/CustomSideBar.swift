@@ -2,7 +2,7 @@
 //  CustomSideBar.swift
 //  MedicFix
 //
-//  Created by Zignuts Technolab on 24/02/25.
+//  Created by Priyanshu Singh on 24/02/25.
 //
 
 import SwiftUI
